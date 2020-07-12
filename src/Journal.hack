@@ -1,0 +1,5 @@
+namespace Hhh;
+
+class Journal {
+
+}

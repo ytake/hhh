@@ -1,0 +1,4 @@
+.**.hack.hhast.*
+composer.phar
+composer.lock
+vendor/
